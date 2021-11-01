@@ -1,0 +1,4 @@
+rd.php bestand werd gestopt door blast dus die moet hier handmatig ingezet worden
+
+//$loader = new Twig\Loader\FilesystemLoader('./views');
+//$twig = new Twig\Environment($loader, []);
